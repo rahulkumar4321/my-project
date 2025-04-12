@@ -5,6 +5,7 @@ public class Hello
         System.out.println("hello!");
         System.out.println("i am java developer");
         System.out.println("I have 6 year experience");
-        System.out.println("current company newgen software");
+        System.out.pritln("current company newgen software");
+
     }
 }
